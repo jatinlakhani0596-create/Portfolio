@@ -42,15 +42,15 @@ const PROJECTS = [
     ss: "/Docuchat.png",
     tech: ["Gemini API", "LangChain", "Python", "Streamlit"],
     live: "https://docuchat-chatbot.streamlit.app/",
-    code: "https://github.com/kunj2803/Docuchat-Chatbot",
+    code: "#",
   },
   {
     title: "📊 ProfileX – Data Profiler",
     desc: "Smart data profiling dashboard for CSV datasets — summary, visualization, and cleaning.",
     ss: "/ProfileX.png",
     tech: ["Streamlit", "Pandas", "Plotly"],
-    live: "https://profilex.streamlit.app/",
-    code: "https://github.com/kunjdesai/ProfileX",
+    live: "https://profilex.streamlit##.app/",
+    code: "#",
   },
 ];
 
