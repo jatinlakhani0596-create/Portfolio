@@ -4,7 +4,7 @@ import path from 'path';
 
 export default defineConfig({
   plugins: [react()],
-  base: "./", // For Vercel deployment
+  base: "./", // IMPORTANT FOR VERCEL
 
   resolve: {
     alias: {
